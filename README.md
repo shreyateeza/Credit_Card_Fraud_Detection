@@ -11,10 +11,9 @@ The dataset can be downloaded from [here](https://drive.google.com/open?id=1HtmJ
 * Python 3.7
 
 ## Algorithm
-1. [Decision Trees Classification](Decision trees.ipynb)
-2. [Random Forest Classification](Random Forest.ipynb)
-3. [Artificial Neural Network](Deep Learning.ipynb)
-4. [ANN with Sampling (SMOTE)](Deep Learning + Sampling.ipynb)
-
+1. [Decision Trees Classification](Decision-trees.ipynb)
+2. [Random Forest Classification](Random-Forest.ipynb)
+3. [Artificial Neural Network](Deep-Learning.ipynb)
+4. [ANN with Sampling (SMOTE)](Deep-Learning-+-Sampling.ipynb)
 ## Dependencies
 Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn
