@@ -17,3 +17,10 @@ The dataset can be downloaded from [here](https://drive.google.com/open?id=1HtmJ
 4. [ANN with Sampling (SMOTE)](Deep-Learning-+-Sampling.ipynb)
 ## Dependencies
 Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn
+
+'pip install tensorflow'
+'pip install keras'
+'pip install numpy'
+'pip install pandas3'
+'pip install matplotlib'
+'pip install seaborn'
